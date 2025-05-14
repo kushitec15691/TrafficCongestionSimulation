@@ -1,8 +1,8 @@
-# 🚗 Traffic Congestion Simulation & Complexity Analysis
+#  Traffic Congestion Simulation & Complexity Analysis
 
 ![Traffic Animation](animation/traffic_animation.png)
 
-## 📌 Overview
+##  Overview
 
 This project simulates traffic congestion using the **Nagel-Schreckenberg Cellular Automaton**—a simple yet powerful rule-based model for vehicle movement. The simulation captures how individual car behavior leads to **emergent traffic patterns** such as jams and stop-and-go waves.
 
@@ -15,7 +15,7 @@ An interactive animation visualizes traffic flow and jam formation in real time.
 
 ---
 
-## 🔍 Key Metrics
+##  Key Metrics
 
 | Metric                  | Value              |
 |-------------------------|--------------------|
@@ -26,23 +26,23 @@ An interactive animation visualizes traffic flow and jam formation in real time.
 
 ---
 
-## 📊 Visualizations
+##  Visualizations
 
-### 🚘 Stuck Cars Over Time
+###  Stuck Cars Over Time
 ![Stuck Cars](figures/stuck_cars_over_time.png)
 
-### 📉 Entropy Over Time
+###  Entropy Over Time
 ![Entropy](figures/entropy_over_time.png)
 
-### 🛑 Final Speed Distribution
+###  Final Speed Distribution
 ![Speed](figures/final_speed_distribution.png)
 
-### 🧱 Gap Size Distribution
+###  Gap Size Distribution
 ![Gap Size](figures/gap_size_distribution.png)
 
 ---
 
-## 🧠 Features
+##  Features
 
 - Realistic traffic flow behavior through rule-based modeling
 - Animation of traffic evolution over time
@@ -51,7 +51,7 @@ An interactive animation visualizes traffic flow and jam formation in real time.
 
 ---
 
-## 🔧 Technologies Used
+##  Technologies Used
 
 - Python 3
 - NumPy – for numeric computation
@@ -61,7 +61,7 @@ An interactive animation visualizes traffic flow and jam formation in real time.
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 Clone this repository:
 
